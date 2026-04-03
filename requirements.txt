@@ -1,1 +1,8 @@
-
+pandas
+geopandas
+shapely
+osmnx
+networkx
+matplotlib
+torch
+torch_geometric
